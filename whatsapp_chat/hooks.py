@@ -240,3 +240,4 @@ sounds = [
     {'name': 'chat-message-send', 'src': '/assets/frappe/sounds/submit.mp3', 'volume': 0.2},
     {'name': 'chat-message-receive', 'src': '/assets/frappe/sounds/alert.mp3', 'volume': 0.5}
 ]
+frappe_version = ">=15.0.0,<17.0.0"
